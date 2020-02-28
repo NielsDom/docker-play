@@ -5,6 +5,6 @@ services:
     image: dockertest
     build: .
     environment:
-      NODE_ENV: production
+      NODE_ENV: dev
     ports:
       - 443
