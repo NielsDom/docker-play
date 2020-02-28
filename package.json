@@ -1,0 +1,11 @@
+{
+  "name": "docker-play",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:NielsDom/docker-play.git",
+  "author": "<niels.dominguez@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
